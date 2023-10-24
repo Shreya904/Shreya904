@@ -19,6 +19,12 @@ I'm Shreya Srivastava, a BCA (Bachelor of Computer Applications) undergraduate s
 
 - 📧 You can also contact me via email at [shreyasrivastava92006@gmail.com].
 
+## My Stats
+
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya904&show_icons=true&theme=radical)
+
+## About Me
+
 ## Let's Collaborate
 
 I'm always open to collaboration and learning from others. If you have any ideas, projects, or opportunities, feel free to get in touch. Let's work together to create something awesome!
