@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Shreya-The-Great/Shreya-The-Great** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shreya Srivastava, a BCA (Bachelor of Computer Applications) undergraduate student with a passion for technology and coding. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently studying at University of Lucknow.
+- 💼 I'm exploring various fields in computer science, including software development, web development, and data science.
+- 🤖 I'm enthusiastic about learning new technologies and enhancing my programming skills.
+
+## My Interests
+
+- 🌐 Web Development: I have Interest in creating websites and web applications.
+- 📊 Data Science: I'm curious about data analysis and machine learning.
+- 🎨 Graphic Designing: I have designed several posters and I'm enthusiastic about experimenting with my designs.
+
+
+## Connect with Me
+
+- 📧 You can also contact me via email at [shreyasrivastava92006@gmail.com].
+
+## Let's Collaborate
+
+I'm always open to collaboration and learning from others. If you have any ideas, projects, or opportunities, feel free to get in touch. Let's work together to create something awesome!
+
+Happy coding! 🚀
