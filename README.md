@@ -8,6 +8,11 @@ I'm Shreya Srivastava, a BCA (Bachelor of Computer Applications) undergraduate s
 - 💼 I'm exploring various fields in computer science, including software development, web development, and data science.
 - 🤖 I'm enthusiastic about learning new technologies and enhancing my programming skills.
 
+##My Skills
+
+- HTML, CSS
+- Javascript
+
 ## My Interests
 
 - 🌐 Web Development: I have Interest in creating websites and web applications.
@@ -17,7 +22,7 @@ I'm Shreya Srivastava, a BCA (Bachelor of Computer Applications) undergraduate s
 
 ## Connect with Me
 
-- 📧 You can also contact me via email at [shreyasrivastava92006@gmail.com].
+- 📧 You can contact me via email at [shreyasrivastava92006@gmail.com].
 
 ## My Stats
 
