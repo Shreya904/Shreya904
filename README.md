@@ -23,6 +23,7 @@ I'm Shreya Srivastava, a BCA (Bachelor of Computer Applications) undergraduate s
 ## Connect with Me
 
 - 📧 You can contact me via email at [shreyasrivastava92006@gmail.com].
+- 🌐Check out my linkedIn profile [https://www.linkedin.com/in/shreya-srivastava-2b11b225b.]
 
 ## My Stats
 
