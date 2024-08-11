@@ -5,18 +5,19 @@ I'm Shreya Srivastava, a BCA (Bachelor of Computer Applications) undergraduate s
 ## About Me
 
 - 🌱 I'm currently studying at University of Lucknow.
-- 💼 I'm exploring various fields in computer science, including software development, web development, and data science.
+- 💼 I'm exploring various fields in computer science, including software development, web development, and graphic design.
 - 🤖 I'm enthusiastic about learning new technologies and enhancing my programming skills.
 
 ##My Skills
 
 - HTML, CSS
 - Javascript
+- ReactJS
+- Tailwind CSS
 
 ## My Interests
 
 - 🌐 Web Development: I have Interest in creating websites and web applications.
-- 📊 Data Science: I'm curious about data analysis and machine learning.
 - 🎨 Graphic Designing: I have designed several posters and I'm enthusiastic about experimenting with my designs.
 
 
