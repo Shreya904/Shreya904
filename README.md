@@ -44,13 +44,6 @@ Welcome to my GitHub — a home for my projects, experiments, and growth as a de
 - Prompt Engineering (for AI apps)
 
 
-## 🏆 Certifications
-
-- 📜 **Node.js** – Scaler Academy  
-- 📜 **Samsung Innovation Campus** – Programming & Project Development
-
----
-
 ## 🤝 Let's Connect!
 
 - 🌐 Portfolio: [shreya0.tech](https://www.shreya0.tech/)
