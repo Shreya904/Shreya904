@@ -53,11 +53,7 @@ Welcome to my GitHub — a home for my projects, experiments, and growth as a de
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya904&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya904&layout=compact&theme=radical)
-
+<img src="https://raw.githubusercontent.com/Shreya904/Shreya904/output/snake.svg" alt="Snake animation" />
 ---
 
 ## 🤝 Collaboration
