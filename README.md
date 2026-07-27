@@ -46,7 +46,7 @@ Welcome to my GitHub — a home for my projects, experiments, and growth as a de
 
 ## 🤝 Let's Connect!
 
-- 🌐 Portfolio: [shreya0.tech](https://www.shreya0.tech/)
+- 🌐 Portfolio: [shreya0.tech]([https://www.shreya0.tech/](https://portfolio-1-iota-ashy.vercel.app/))
 - 📬 Email: [shreyasrivastava92006@gmail.com](mailto:shreyasrivastava92006@gmail.com)
 - 💼 LinkedIn: [Shreya Srivastava](https://www.linkedin.com/in/shreya-srivastava-2b11b225b/)
 - 💻 GitHub: [@Shreya904](https://github.com/Shreya904)
